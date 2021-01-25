@@ -1,6 +1,6 @@
-/* 
+/*
 Text color: black;
-Primary Color (pink and darkgreen): #c05980 und #026670 
+Primary Color (pink and darkgreen): #c05980 und #026670
 Secondary Color (green and darkyellow): #9FEDD7 und #FCE181
 Tertiary Color (lightgrey, lightyellow): #EDEAE5 und #FEF9C7 ;
 */
@@ -255,6 +255,3 @@ button:hover, button:focus, .button:hover, .button:focus {
 	    grid-row: auto / auto;
 	}
 }
-
-
-
