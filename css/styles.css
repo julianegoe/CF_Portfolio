@@ -229,7 +229,7 @@ button:hover, button:focus, .button:hover, .button:focus {
 }
 
 /* Layout for all screens smaller than 600px wide */
-@media all and (max-width: 500px) {
+@media all and (max-width: 600px) {
 	.grid {
 	    grid-template-columns: 1fr;
 	    grid-gap: 10px;
@@ -241,7 +241,7 @@ button:hover, button:focus, .button:hover, .button:focus {
 }
 
 /* Layout for all screens between 600px and 900px wide */
-@media all and (min-width: 500px) and (max-width: 900px) {
+@media all and (min-width: 600px) and (max-width: 900px) {
 	.grid {
     	grid-template-columns: 1fr 1fr;
     	grid-gap: 15px;
