@@ -109,6 +109,11 @@ button:focus,
   box-shadow: 5px 8px #fce181;
 }
 
+.svg {
+  width: 80%;
+  height: 80%;
+}
+
 .page-footer {
   clear: both;
   display: flex;
