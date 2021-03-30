@@ -202,6 +202,11 @@ button:focus,
   font-size: var(--font-size-xs);
 }
 
+#pokedex-img {
+  width: 100%;
+  border: black;
+}
+
 /* Color change from lightyellow to darkyellow */
 @keyframes color-change {
   from {
@@ -218,7 +223,7 @@ button:focus,
     display: grid;
     grid-template-columns: 1fr 1fr 1fr;
     grid-gap: 20px;
-    margin-top: 15px;
+    margin: 50px;
   }
 
   .grid__item {
