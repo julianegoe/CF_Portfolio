@@ -27,7 +27,7 @@ Tertiary Color (lightgrey, lightyellow): #EDEAE5 und #FEF9C7 ;
 }
 
 body {
-  font-family: 'Space Mono', monospace;
+  font-family: sans-serif;
   font-weight: var(--front-weight-400);
   line-height: 1.6;
   font-size: var(--font-size-m);
@@ -202,7 +202,7 @@ button:focus,
   font-size: var(--font-size-xs);
 }
 
-#pokedex-img {
+.grid-img {
   width: 100%;
   border: black;
 }
